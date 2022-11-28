@@ -16,4 +16,4 @@
 `python manage.py test`
 
 
-## [pull requist link](https://github.com/WalaaAtiah/django-snacks/pull/1)
+## [pull requist link](https://github.com/WalaaAtiah/django-snacks/pull/2)
